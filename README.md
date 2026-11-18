@@ -1,3 +1,1 @@
-<img width="400" src="https://github.com/user-attachments/assets/078fd665-9295-4471-a306-47b9dd8cbeed" />
-
-Written in pure C. Enjoy!
+<img width="400" src="https://github.com/user-attachments/assets/25572d22-e8a5-4c25-a7fa-f0c1389dbc44" />
